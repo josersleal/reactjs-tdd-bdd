@@ -1,3 +1,4 @@
+// @flow
 import puppeteer, { Browser, Page } from 'puppeteer';
 
 const appUrlBase = 'http://localhost:3000';

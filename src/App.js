@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-
+// @flow
 class App extends Component {
   render() {
     return (
